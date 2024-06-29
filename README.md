@@ -1,5 +1,3 @@
-# KaggleXCarPrice <br/> 
-
 [Competition Page](https://www.kaggle.com/competitions/kagglex-cohort4/overview)<br/> 
 Used a Random Forest to predict car prices. <br/> 
 
